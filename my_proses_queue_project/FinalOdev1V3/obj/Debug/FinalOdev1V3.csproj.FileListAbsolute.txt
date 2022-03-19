@@ -1,0 +1,29 @@
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\1Projelerim\visual studio C projeleri\2.sinif\Veri Yapıları\Final Odevleri\odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe.config
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csprojAssemblyReference.cache
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Form1.resources
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csproj.GenerateResource.cache
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\1Projelerim\C Sharp Projeleri\2.sınıf\Veri Yapıları\Final Ödevi\Odev 1\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe.config
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.exe
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\bin\Debug\FinalOdev1V3.pdb
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csprojResolveAssemblyReference.cache
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Form1.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.Properties.Resources.resources
+C:\Users\Alperen\OneDrive\0kul\2.sınıf\1.donem\Veri Yapıları\Final Ödevi\Odev 1 saglam\FinalOdev1V3\FinalOdev1V3\obj\Debug\FinalOdev1V3.csproj.GenerateResource.Cache
